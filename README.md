@@ -17,4 +17,4 @@
 ```
 При полной настройке высылает сообщения по типу таких:
 
-![подпишись пж](https://github.com/tailsjs/VKMSG-Spammer/raw/master/message_example.png)
+![подпишись пж](https://github.com/tailsjs/VKMSG-Spammer/raw/main/message_example.png)
